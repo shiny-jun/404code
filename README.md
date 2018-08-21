@@ -1,6 +1,6 @@
 # 404code
 防中国移动蜂巢精销项目404页面  
-基于Bootstrap、Jquery，做了响应式布局还有浏览器兼容
+基于Bootstrap、Jquery，做了响应式布局还有浏览器兼容   
 浏览-> http://shiny-jun.cn/code404/
 
 * 手机端  
