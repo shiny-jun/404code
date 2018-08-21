@@ -5,4 +5,4 @@
  ![image](https://github.com/shiny-jun/404code/blob/master/img/404-1.PNG)
  
 * PC端
- ![image](https://github.com/shiny-jun/404code/blob/master/img/code404.PNG)
+ ![image](https://github.com/shiny-jun/404code/blob/master/img/code404.png)
